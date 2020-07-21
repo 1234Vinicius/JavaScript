@@ -1,2 +1,2 @@
 # JavaScript
-Desenvolvimento Web com a linguagem javascript
+Aulas de Javascript 
